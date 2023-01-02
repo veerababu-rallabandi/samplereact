@@ -12,7 +12,7 @@ function App() {
   return (
     <div className="App">
      <Counter/>
-     <Wishes name="veera" subName="vee"></Wishes>
+     <Wishes name="veer" subName="vee"></Wishes>
      <FunctionClick></FunctionClick>
      <ClassClick></ClassClick>
     </div>
